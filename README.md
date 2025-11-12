@@ -1,5 +1,7 @@
 # 🧠 Logician - Autonomous DevOps AI Assistant
 
+**Status**: Production-ready RAG-powered DevOps assistant with vector search capabilities - intelligent automation for infrastructure management tasks.
+
 <img width="600" alt="logo" src="https://github.com/user-attachments/assets/561edb9b-e338-48c7-8bf2-db8705970bcb" />
 
 A lightweight, RAG-powered AI assistant designed to help with DevOps tasks using embeddings and vector search.
